@@ -44,7 +44,7 @@ public class MyTask extends RecursiveAction {
                     //System.out.println("多currentThread=" + Thread.currentThread().getName() + ",assemblyLog=" + assemblyLog);
                     //System.out.println("atomicLong.longValue()="+atomicLong.longValue());
                     atomicLong.incrementAndGet();
-                } catch (InterruptedException e) {
+                } catch (Exception e) {
                     e.printStackTrace();
                 }
             }
