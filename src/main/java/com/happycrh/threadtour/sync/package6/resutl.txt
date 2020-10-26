@@ -1,0 +1,1 @@
+synchronized应用在static方法上，那是对当前对应的*.Class进行持锁。
