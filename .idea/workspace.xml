@@ -2,18 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="740b99ee-2fbb-4d8a-b843-600d9b6f87d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/guardedsuspension/ClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/guardedsuspension/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/guardedsuspension/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/guardedsuspension/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/guardedsuspension/RequestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/guardedsuspension/ServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/lock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/queue/Study0208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/queue_threadpool/HandlerThreadsPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/queue_threadpool/MsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/queue_threadpool/ThreadsPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package1/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package1/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package1/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package1/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package1/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package2/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package2/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package3/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package3/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package3/ObjectService_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package3/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package3/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package4/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package4/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package4/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package4/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package6/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package6/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package6/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package6/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package7/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package7/MainTest_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package7/ObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package7/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/sync/package7/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/threadpool/BlockingQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/happycrh/threadtour/forkjoin/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/happycrh/threadtour/forkjoin/MyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/lock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/happycrh/threadtour/lock/HoldsLockMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +68,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../monitor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.happycrh.threadtour.sync.package7" />
+      <recent name="com.happycrh.threadtour.sync.package3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\workspace\ideapro\mythreadtour\src\main\java\com\happycrh\threadtour\forkjoin" />
     </key>
@@ -69,26 +95,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.test.Main" />
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.threadpool.BlockingQueueTest" />
       <module name="mythreadtour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.happycrh.threadtour.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.lock.Main" />
-      <module name="mythreadtour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.happycrh.threadtour.lock.*" />
+          <option name="PATTERN" value="com.happycrh.threadtour.threadpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.create_method.Main" />
-      <module name="mythreadtour" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.happycrh.threadtour.create_method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.create_method.Main2" />
       <module name="mythreadtour" />
@@ -135,12 +135,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.test.TestArrayList" />
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.sync.package1.MainTest" />
       <module name="mythreadtour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.happycrh.threadtour.test.*" />
+          <option name="PATTERN" value="com.happycrh.threadtour.sync.package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.create_method.Main" />
+      <module name="mythreadtour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happycrh.threadtour.create_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Study0208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.happycrh.threadtour.queue.Study0208" />
+      <module name="mythreadtour" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.happycrh.threadtour.queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.BlockingQueueTest" />
+        <item itemvalue="Application.Study0208" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TestArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +201,9 @@
       <workItem from="1600848487212" duration="5768000" />
       <workItem from="1600917420452" duration="45000" />
       <workItem from="1601258977939" duration="954000" />
-      <workItem from="1602472180086" duration="16363000" />
+      <workItem from="1602472180086" duration="16479000" />
+      <workItem from="1603436816518" duration="6463000" />
+      <workItem from="1603674048226" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="future">
       <created>1597397193392</created>
@@ -191,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602573352647</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ee">
+      <created>1602647065566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602647065566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +248,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="future" />
     <MESSAGE value="线程创建的三种方式" />
-    <option name="LAST_COMMIT_MESSAGE" value="线程创建的三种方式" />
+    <MESSAGE value="ee" />
+    <option name="LAST_COMMIT_MESSAGE" value="ee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

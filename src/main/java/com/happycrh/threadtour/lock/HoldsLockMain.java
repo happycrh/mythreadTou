@@ -1,24 +1,22 @@
 package com.happycrh.threadtour.lock;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
 /**
  * @author chenrenhui
  * @version 0.0.1
  * @date 2020/10/13 17:19
  * @desc
  */
-public class Main {
+public class HoldsLockMain {
     public static void main(String[] args) throws Exception {
-        Main main = new Main();
+        HoldsLockMain main = new HoldsLockMain();
         main.t();
         main.test1();
-        System.out.println("==="+Thread.holdsLock(Main.class));
+        System.out.println("==="+Thread.holdsLock(HoldsLockMain.class));
 
     }
 
     public static synchronized void t() throws InterruptedException {
-        System.out.println("---"+Thread.holdsLock(Main.class));
+        System.out.println("---"+Thread.holdsLock(HoldsLockMain.class));
     }
 
 
@@ -43,6 +41,6 @@ public class Main {
 
     public static synchronized void t2(){
         System.out.println("child thread--: holdLock: " +
-                Thread.holdsLock(Main.class));
+                Thread.holdsLock(HoldsLockMain.class));
     }
 }
